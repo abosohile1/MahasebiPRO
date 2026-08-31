@@ -1,0 +1,17 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'dz.mahasebi.pro'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'dz.mahasebi.pro'
+        minSdk 26
+        targetSdk 35
+        versionCode 6
+        versionName '6.0.0'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

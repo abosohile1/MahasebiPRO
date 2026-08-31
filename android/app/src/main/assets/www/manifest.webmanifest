@@ -1,0 +1,14 @@
+{
+  "name": "محاسبي PRO",
+  "short_name": "محاسبي PRO",
+  "description": "نظام محاسبي يعمل على الهاتف بدون خادم خارجي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0f172a",
+  "icons": []
+}
